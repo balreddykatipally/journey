@@ -1,5 +1,2 @@
-# journey
- branch1
-success vs failure
-success 
- main
+
+success vs failur and  failures are lessons
