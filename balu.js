@@ -1,5 +1,5 @@
 function msg(){
 
-document.write('my name is madhuribalreddy')
+document.write('my name is Madhuribalreddy')
 
 }
