@@ -1,5 +1,5 @@
 function msg(){
 
-document.write('this is Katipally Madhuri and my husband name is balreddy')
+document.write('this is Katipally Balreddy and my wife name is madhuri')
 
 }
